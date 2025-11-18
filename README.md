@@ -1,4 +1,4 @@
-# 👨‍💻 Hugo Braga <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# 👨‍💻 Alexandre Kuzniewski <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### 📊 Estatísticas
 
