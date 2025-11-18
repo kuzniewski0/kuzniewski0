@@ -40,14 +40,14 @@
       title="Docker"
       width="40px" 
       style="margin: 0 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+      src="https://commons.wikimedia.org/wiki/File:Docker-svgrepo-com.svg" 
   />
   <img 
       alt="MongoDB" 
       title="MongoDB"
       width="40px" 
       style="margin: 0 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+      src="https://pt.wikipedia.org/wiki/Ficheiro:MongoDB_Logo.svg" 
   />
   <img 
       alt="TypeScript" 
