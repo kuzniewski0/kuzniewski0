@@ -40,7 +40,7 @@
       title="Docker"
       width="40px" 
       style="margin: 0 10px;" 
-      src="https://commons.wikimedia.org/wiki/File:Docker-svgrepo-com.svg" 
+      src="http://www.w3.org/2000/svg" 
   />
   <img 
       alt="MongoDB" 
