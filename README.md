@@ -36,15 +36,15 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
   <img 
-      alt="Spring" 
-      title="Spring Boot"
+      alt="Docker" 
+      title="Docker"
       width="40px" 
       style="margin: 0 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
   />
   <img 
-      alt="JavaScript" 
-      title="JavaScript"
+      alt="MongoDB" 
+      title="MongoDB"
       width="40px" 
       style="margin: 0 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
